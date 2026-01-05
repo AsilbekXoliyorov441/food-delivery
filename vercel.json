@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/categories",
+      "destination": "/api/categories"
+    },
+    {
+      "source": "/products",
+      "destination": "/api/products"
+    },
+    {
+      "source": "/api-docs",
+      "destination": "/api/api-docs"
+    }
+  ]
+}
