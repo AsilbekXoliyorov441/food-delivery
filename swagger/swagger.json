@@ -7,8 +7,8 @@
   },
   "servers": [
     {
-      "url": "http://localhost:5000",
-      "description": "Local server"
+      "url": "https://food-delivery-dun-theta.vercel.app",
+      "description": "Vercel deployment"
     }
   ],
   "paths": {
