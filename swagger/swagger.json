@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://food-delivery-dun-theta.vercel.app",
+      "url": "https://food-delivery-dun-theta.vercel.app/api",
       "description": "Vercel deployment"
     }
   ],
